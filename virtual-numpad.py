@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Virtual Numpad",
+    "name": "Virtual Numpad for Blender",
     "author": "Benoît G. & ChatGPT",
     "version": (1, 3),
     "blender": (4, 4, 0),
