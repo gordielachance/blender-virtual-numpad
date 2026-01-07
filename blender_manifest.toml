@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "virtual_numpad"
+name = "Virtual Numpad"
+tagline = "Virtual numpad.  Viewport > Tools tab"
+version = "1.4.0"
+type = "add-on"
+
+tags = ["User Interface"]
+
+maintainer = "Benoit G."
+license = ["SPDX:GPL-3.0-or-later"]
+
+website = "https://github.com/gordielachance/blender-virtual-numpad"
+
+blender_version_min = "4.4.0"

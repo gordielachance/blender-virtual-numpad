@@ -1,10 +1,10 @@
 bl_info = {
     "name": "Virtual Numpad",
     "author": "Benoît G.",
-    "version": (1, 3),
+    "version": (1, 4),
     "blender": (4, 4, 0),
     "location": "View3D > Sidebar > Tool Tab",
-    "description": "A virtual numpad for folks that don't have one.  Viewport > Tools tab.",
+    "description": "Virtual numpad for folks that don't have one.  Viewport > Tools tab.",
     "category": "3D View",
 }
 
