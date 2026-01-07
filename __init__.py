@@ -1,6 +1,6 @@
 bl_info = {
-    "name": "Virtual Numpad for Blender",
-    "author": "Benoît G. & ChatGPT",
+    "name": "Virtual Numpad",
+    "author": "Benoît G.",
     "version": (1, 3),
     "blender": (4, 4, 0),
     "location": "View3D > Sidebar > Tool Tab",
